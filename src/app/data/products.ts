@@ -398,7 +398,7 @@ export const products: Product[] = [
   "inStock": true,
   "featured": false,
   "badge": "NEW"
-}
+},
   {
   "id": "1773860746835-r142qsy",
   "name": "KAASHVI JENIKA Chocolate Brown Ethnic Suit",
