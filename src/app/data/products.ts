@@ -399,6 +399,28 @@ export const products: Product[] = [
   "featured": false,
   "badge": "NEW"
 }
+  {
+  "id": "1773860746835-r142qsy",
+  "name": "KAASHVI JENIKA Chocolate Brown Ethnic Suit",
+  "description": "Dresses\nElegant chocolate brown ethnic suit from KAASHVI JENIKA collection with sophisticated pinstripe embroidery. Features classic V-neck design with delicate threadwork and floral embellishments. Complete 3-piece set includes beautifully tailored kurta with embroidered details, matching bottom, and dupatta. Premium quality fabric with comfortable fit. Perfect for casual gatherings, festivals, office parties, and traditional celebrations.",
+  "price": 2000,
+  "originalPrice": 5000,
+  "image": "https://striking-teal-vzeuengh8g.edgeone.app/6d60ccc9b494b1ef9899365523fbf437ff8ee621.png",
+  "images": [
+    "https://striking-teal-vzeuengh8g.edgeone.app/6d60ccc9b494b1ef9899365523fbf437ff8ee621.png"
+  ],
+  "category": "Traditional",
+  "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "inStock": true,
+  "featured": false,
+  "badge": "NEW"
+}
 ];
 
 export const categories = [
